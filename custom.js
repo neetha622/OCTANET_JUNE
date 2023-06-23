@@ -1,0 +1,1 @@
+window.addEventListener("DOMContentLoaded",(e=>{let n=document.querySelectorAll("[href='/pages/3-0-series']");[].push(n);let t=Array.from(n)[1];t&&t.classList.add("Button--secondary")})),$(document).ready((function(){$(document).on("click",(function(e){$(e.target).closest("#open_drawer").length?$("#beacon-container").hide():$("#beacon-container").show()}))}));
